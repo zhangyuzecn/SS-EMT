@@ -1,5 +1,5 @@
-# SS-EMT
-Open the source code of SS-EMT
+# SS-EMT (A band selection method)
+Open the source code of SS-EMT (Superpixel Segmentation Based Evolutionary Multitasking Algorithm for Feature Selection of Hyperspectral Images)
 
 The ERS code can be found at https://github.com/mingyuliutw/EntropyRateSuperpixel 
 
@@ -22,7 +22,6 @@ Please kindly cite our paper if you use our code in your research. Thanks and ho
   pages={1-1},
   
   keywords={Multitasking;Hyperspectral imaging;Optimization;Feature extraction;Computer science;Search problems;Image segmentation;Feature selection;hyperspectral images;evolutionary multitasking;superpixel segmentation},
-  
+
   doi={10.1109/TEVC.2024.3392749}}
 
-Details coming soon
